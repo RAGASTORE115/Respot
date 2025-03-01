@@ -1,0 +1,417 @@
+    /* Laptop */
+
+@media screen and (max-width: 1366px) {
+        html {
+            font-size: 75%;
+            
+        }
+        .container {
+                max-width: 75%;
+                
+        }
+        .containers {
+            max-width: 75%;
+            
+        }
+        .box1 {
+            max-width: 75%;
+            
+        }
+        .box1:hover {
+            max-width: 75%;
+            
+        }
+        .box1 h1 {
+            max-width: 75%;
+            
+        }
+        
+        .box2 {
+            max-width: 75%;
+            
+        }
+        .box2:hover {
+            max-width: 75%;
+            
+        }
+        .box2 h1 {
+            max-width: 75%;
+            
+        }
+
+        .box3 {
+            max-width: 75%;
+            
+        }
+        .box3:hover {
+            max-width: 75%;
+            
+        }
+        .box3 h1 {
+            max-width: 75%;
+            
+        }
+
+        .box4 {
+            max-width: 75%;
+            
+        }
+        .box4:hover {
+            max-width: 75%;
+            
+        }
+        .box4 h1 {
+            max-width: 75%;
+            
+        }
+
+        .box5 {
+            max-width: 75%;
+            
+        }
+        .box5:hover {
+            max-width: 75%;
+            
+        }
+        .box5 h1 {
+            max-width: 75%;
+            
+        }
+
+        .box6 {
+            max-width: 75%;
+            
+        }
+        .box6:hover {
+            max-width: 75%;
+            
+        }
+        .box6 h1 {
+            max-width: 75%;
+            
+        }
+        .text {
+            max-width: 75%;
+        }
+    }
+
+        /* Tablet */
+
+    @media screen and (max-width: 766px) {
+        html {
+            font-size: 62.5%; 
+            
+        }
+        .container {
+            max-width: 62.5%;
+            
+    }
+    .containers {
+        max-width: 62.5%;
+        
+    }
+    .box1 {
+        max-width: 62.5%;
+        
+    }
+    .box1:hover {
+        max-width: 62.5%;
+        
+    }
+    .box1 h1 {
+        max-width: 62.5%;
+        
+    }
+
+    .box2 {
+        max-width: 62.5%;
+        
+    }
+    .box2:hover {
+        max-width: 62.5%;
+        
+    }
+    .box2 h1 {
+        max-width: 62.5%;
+        
+    }
+
+    .box3 {
+        max-width: 62.5%;
+        
+    }
+    .box3:hover {
+        max-width: 62.5%;
+        
+    }
+    .box3 h1 {
+        max-width: 62.5%;
+        
+    }
+
+    .box4 {
+        max-width: 62.5%;
+        
+    }
+    .box4:hover {
+        max-width: 62.5%;
+        
+    }
+    .box4 h1 {
+        max-width: 62.5%;
+        
+    }
+
+    .box5 {
+        max-width: 62.5%;
+        
+    }
+    .box5:hover {
+        max-width: 62.5%;
+        
+    }
+    .box5 h1 {
+        max-width: 62.5%;
+        
+    }
+
+    .box6 {
+        max-width: 62.5%;
+        
+    }
+    .box6:hover {
+        max-width: 62.5%;
+        
+    }
+    .box6 h1 {
+        max-width: 62.5%;
+        
+    }
+    .text {
+        max-width: 62.5%;
+    }
+
+
+    }
+
+    /* HandPhone */
+    @media screen and (max-width: 476px) {
+        html {
+            font-size: 55%;
+            
+        }
+        .container {
+            max-width: 55%;
+            
+    }
+    .containers {
+        max-width: 55%;
+        
+    }
+    .box1 {
+        max-width: 55%;
+        
+    }
+    .box1:hover {
+        max-width: 55%;
+        
+    }
+    .box1 h1 {
+        max-width: 55%;
+        
+    }
+
+    .box2 {
+        max-width: 55%;
+        
+    }
+    .box2:hover {
+        max-width: 55%;
+        
+    }
+    .box2 h1 {
+        max-width: 55%;
+        
+    }
+
+    .box3 {
+        max-width: 55%;
+        
+    }
+    .box3:hover {
+        max-width: 55%;
+        
+    }
+    .box3 h1 {
+        max-width: 55%;
+        
+    }
+
+    .box4 {
+        max-width: 55%;
+        
+    }
+    .box4:hover {
+        max-width: 55%;
+        
+    }
+    .box4 h1 {
+        max-width: 55%;
+        
+    }
+
+    .box5 {
+        max-width: 55%;
+        
+    }
+    .box5:hover {
+        max-width: 55%;
+        
+    }
+    .box5 h1 {
+        max-width: 55%;
+        
+    }
+
+    .box6 {
+        max-width: 55%;
+        
+    }
+    .box6:hover {
+        max-width: 55%;
+        
+    }
+    .box6 h1 {
+        max-width: 55%;
+        
+    }
+    .text {
+        max-width: 55%;
+    }
+    }
+
+.text {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.container {
+    display: flex;
+    gap: 20px;
+    margin-left: 120px;
+}
+
+.containers {
+    display: flex;
+    gap: 20px;
+    margin-left: 120px;
+   margin-top: 20px;
+}
+
+.box1 {
+    background-color: #ffff;
+    color:black;
+    padding: 15px;
+    border-radius: 4px;
+    max-width: 400px;
+    transition: transform 0.3s ease;
+}
+.box1:hover {
+    transform: scale(1.05); 
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+.box1 h1 {
+    margin-left: 20px;
+}
+
+.box2 {
+    background-color: #ffff;
+    color: black;
+    padding: 15px;
+    border-radius: 4px;
+    max-width: 400px;
+    transition: transform 0.3s ease;
+}
+
+.box2:hover {
+    transform: scale(1.05); 
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.box2 h1 {
+    margin-left: 20px;
+}
+
+
+.box3 {
+    background-color: #ffff;
+    color: black;
+    padding: 15px;
+    border-radius: 4px;
+    max-width: 400px;
+    transition: transform 0.3s ease;
+}
+
+.box3:hover {
+    transform: scale(1.05); 
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.box3 h1 {
+    margin-left: 20px;
+}
+
+.box4 {
+    background-color: #ffff;
+    color: black;
+    padding: 15px;
+    border-radius: 4px;
+    max-width: 400px;
+    transition: transform 0.3s ease;
+}
+
+.box4:hover {
+    transform: scale(1.05); 
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.box4 h1 {
+    margin-left: 20px;
+}
+
+.box5 {
+    background-color: #ffff;
+    color: black;
+    padding: 15px;
+    border-radius: 4px;
+    max-width: 400px;
+    transition: transform 0.3s ease;
+}
+
+.box5:hover {
+    transform: scale(1.05); 
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.box5 h1 {
+    margin-left: 20px;
+}
+
+.box6 {
+    background-color: #ffff;
+    color: black;
+    padding: 15px;
+    border-radius: 4px;
+    max-width: 400px;
+    transition: transform 0.3s ease;
+}
+
+.box6:hover {
+    transform: scale(1.05); 
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.box6 h1 {
+    margin-left: 20px;
+}

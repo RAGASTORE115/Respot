@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+/* Laptop */
+@media screen and (max-width : 1366px ){
+        html {
+            font-size: 75%;
+        }
+}
+
+/* Tablet*/
+@media screen and (max-width : 768px ){
+    html {
+        font-size: 62.5%;
+    }
+}
+
+/* Handphone */
+@media screen and (max-width : 476px ){
+    html {
+        font-size: 55%;
+    }
+}
+
+.border {
+    justify-content: flex-end;
+    gap: 20px;
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.border a{
+    color: white;
+    font-size: 17px;
+}
+
+.border a:hover {
+    color: grey;
+    transition: 0.5s;
+}
